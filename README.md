@@ -1,2 +1,2 @@
-# Javascript Review Project by write_your_full_name
+# Javascript Review Project by Glydel R. Villarino
 This project is a new of JavaScript concepts, from beginner to advanced.
