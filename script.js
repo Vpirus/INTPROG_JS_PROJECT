@@ -1,4 +1,4 @@
-// Script.js
+// script.js
 // ===== Todo CRUD Management ====
 
 // Array to Store todos
