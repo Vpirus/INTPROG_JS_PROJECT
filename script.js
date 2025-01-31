@@ -1,4 +1,3 @@
-// script.js
 // ===== Todo CRUD Management ====
 
 // Array to Store todos
@@ -9,10 +8,10 @@ const todoForm = document.getElementById("todo-form");
 const todoInput = document.getElementById("todo-input");
 const todoList = document.getElementById("todo-list");
 
-// Function to rendr todos
+// Function to render todos
 function renderTodos() {
   todoList.innerHTML = ""; // Clear the list
-  todoForm.forEach((todo, index) => {
+  todos.forEach((todo, index) => {
     const li = document.createElement("li");
     li.className = "todo-item";
     li.innerHTML = `
